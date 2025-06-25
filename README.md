@@ -1,4 +1,4 @@
 # sanidhya-demo
 this is my first repo
 <br>
-author - sanidhya
+author - sanidhya (NMD Analytics)
